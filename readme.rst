@@ -195,6 +195,20 @@ Bind Mount Volume (BMV): a directory on the host machine that is mounted into a 
 
 Persistent Volume (PV): a resource that is provisioned and managed by Kubernetes.
 
+Links
+******
+
+Protobuf
+********
+
+[GenAI Quarter 5 Online Class 13: Serialization and Deserialization Kafka Messages](https://www.youtube.com/watch?v=qVbAYHxW3xg)
+
+Kafka
+*****
+[GenAI Quarter 5 Online Class 12: Interact with Kafka using aiokafka - A Python Library for Kafka](https://www.youtube.com/watch?v=PAU05OrLgho)
+
+
+[event_driven Github](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven)
 
 
 

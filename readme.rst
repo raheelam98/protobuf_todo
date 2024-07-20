@@ -168,16 +168,6 @@ Advantages of Protobuf
 
 3- Backward and Forward Compatibility: Protobuf supports adding new fields and deprecating old fields without breaking existing code.
 
-https://blog.bytebytego.com/p/cloudflares-trillion-message-kafka 
-
-https://blog.bytebytego.com/p/cloudflares-trillion-message-kafka
-
-https://protobuf.dev/ 
-
-https://protobuf.dev/getting-started/pythontutorial/ 
-
-https://github.com/panaverse/learn-generative-ai/blob/main/05_microservices_all_in_one_platform/15_event_driven/03_protobuf/protobuf-guide.md
-
 
 Volume (compose.yaml)
 *********************
@@ -195,23 +185,29 @@ Bind Mount Volume (BMV): a directory on the host machine that is mounted into a 
 
 Persistent Volume (PV): a resource that is provisioned and managed by Kubernetes.
 
-Links
-******
+
+Even Driven Architecture 
+*************************
+(https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven)
 
 Protobuf
 ********
-
 [GenAI Quarter 5 Online Class 13: Serialization and Deserialization Kafka Messages](https://www.youtube.com/watch?v=qVbAYHxW3xg)
 
 Kafka
 *****
 [GenAI Quarter 5 Online Class 12: Interact with Kafka using aiokafka - A Python Library for Kafka](https://www.youtube.com/watch?v=PAU05OrLgho)
 
+Links
+******
 
-[event_driven Github](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven)
+https://blog.bytebytego.com/p/cloudflares-trillion-message-kafka 
 
+https://blog.bytebytego.com/p/cloudflares-trillion-message-kafka
 
+https://protobuf.dev/ 
 
+https://protobuf.dev/getting-started/pythontutorial/ 
 
 
   
